@@ -34,7 +34,7 @@ The folder main_scripts contains scripts that run different experiments:
 example:
 to run 10-fold cross-validation experiment:
 ```
-python main_scripts/main_10fold_experiment --config=configs/10fold_config.json --dataset_name=NCI1
+python main_scripts/main_10fold_experiment.py --config=configs/10fold_config.json --dataset_name=NCI1
 ```
 2. To run the QM9 experiment with our hyper-parameters, run the main_qm9_experiment.py script:
 ```
