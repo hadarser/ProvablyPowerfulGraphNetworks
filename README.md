@@ -74,7 +74,7 @@ DECAY_RATES = {'COLLAB': 0.5, 'IMDBBINARY': 0.75, 'IMDBMULTI': 1.0, 'MUTAG': 0.5
 CHOSEN_EPOCH = {'COLLAB': 85, 'IMDBBINARY': 100, 'IMDBMULTI': 150, 'MUTAG': 150, 'NCI1': 100, 'NCI109': 300, 'PROTEINS': 100, 'PTC': 200}
 ```
 
-Note: The script mentioned in the data section above will download a procesed version of QM9 which is nedded for our main code. We also share our processing code (requires pytorch), which is is based on the pytorch-geometric package.
+Note: The script mentioned in the data section above will download a processed version of QM9 which is needed for our main code. We also share our processing code (requires pytorch), which is is based on the pytorch-geometric package.
 see: https://pytorch-geometric.readthedocs.io/en/latest/_modules/torch_geometric/datasets/qm9.html#QM9:
 
 ```
