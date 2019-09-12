@@ -1,7 +1,7 @@
 # Provably Powerful Graph Networks
 This repository holds the code for the paper:
-https://arxiv.org/abs/1905.11136
-If you want to learn more about it, check out these two blog posts explaining invariant graph networks and their power: http://irregulardeep.org
+https://arxiv.org/abs/1905.11136.
+If you want to learn more about it, check out these two blog posts explaining invariant graph networks and their power: http://irregulardeep.org.
 A torch version of this algorithm can be found in https://github.com/hadarser/ProvablyPowerfulGraphNetworks_torch.
 
 ## Data
